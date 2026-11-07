@@ -24,7 +24,7 @@
 <!-- ===================== ABOUT ME ===================== -->
 ## 👨‍💻 About Me
 
-Cloud Network Engineer with **4+ years of experience** designing, building, and supporting enterprise, hybrid, and AWS cloud networks. I specialize in AWS VPC, Transit Gateway, Direct Connect, and Site-to-Site VPN, backed by a deep Cisco routing and switching foundation (BGP, OSPF, EIGRP, MPLS, SD-WAN). I secure these environments with Palo Alto and FortiGate firewalls, and I use Python, Ansible, and Terraform to automate repetitive network operations at scale.
+Cloud Network Engineer with **nearly 4 years of experience** designing, building, and supporting enterprise, hybrid, and AWS cloud networks. I specialize in AWS VPC, Transit Gateway, Direct Connect, and Site-to-Site VPN, backed by a deep Cisco routing and switching foundation (BGP, OSPF, EIGRP, MPLS, SD-WAN). I secure these environments with Palo Alto and FortiGate firewalls, and I use Python, Ansible, and Terraform to automate repetitive network operations at scale.
 
 - 🔭 **Targeting:** Cloud Network Engineer and Cloud Engineer roles
 - 📍 **Based in:** Nashville, Tennessee
